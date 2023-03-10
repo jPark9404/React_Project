@@ -1,0 +1,100 @@
+{
+    "tables": [
+      {
+        "name": "Table 1",
+        "capacity": 4,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Table 2",
+        "capacity": 4,
+        "isAvailable": true,
+        "location": "Patio"
+      },
+      {
+        "name": "Table 3",
+        "capacity": 4,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Table 4",
+        "capacity": 8,
+        "isAvailable": true,
+        "location": "Inside"
+      },
+      {
+        "name": "Table 5",
+        "capacity": 8,
+        "isAvailable": true,
+        "location": "Patio"
+      },
+      {
+        "name": "Table 6",
+        "capacity": 8,
+        "isAvailable": true,
+        "location": "Patio"
+      },
+      {
+        "name": "Table 7",
+        "capacity": 4,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Table 8",
+        "capacity": 2,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Table 9",
+        "capacity": 2,
+        "isAvailable": true,
+        "location": "Patio"
+      },
+      {
+        "name": "Table 10",
+        "capacity": 2,
+        "isAvailable": true,
+        "location": "Patio"
+      },
+      {
+        "name": "Table 11",
+        "capacity": 5,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Table 12",
+        "capacity": 8,
+        "isAvailable": true,
+        "location": "Inside"
+      },
+      {
+        "name": "Table 13",
+        "capacity": 4,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Table 14",
+        "capacity": 4,
+        "isAvailable": true,
+        "location": "Patio"
+      },
+      {
+        "name": "Table 15",
+        "capacity": 10,
+        "isAvailable": true,
+        "location": "Patio"
+      },
+      {
+        "name": "Table 16",
+        "capacity": 8,
+        "isAvailable": true,
+        "location": "Inside"
+      }
+    ]
+  }
